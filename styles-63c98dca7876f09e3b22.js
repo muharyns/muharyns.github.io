@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{189:function(s,e,o){},215:function(s,e,o){s.exports={user:"about-css-modules-module--user--1HoAP",avatar:"about-css-modules-module--avatar--19F_C",description:"about-css-modules-module--description--2EMhl",username:"about-css-modules-module--username--2Z0Ns",excerpt:"about-css-modules-module--excerpt--3_9yz"}}}]);
+//# sourceMappingURL=styles-63c98dca7876f09e3b22.js.map
